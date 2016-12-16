@@ -1,0 +1,6 @@
+[15-Dec-2016 18:12:51 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/rent452/public_html/rent/application/controllers/Rent.php on line 91
+[15-Dec-2016 18:13:32 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/rent452/public_html/rent/application/controllers/Rent.php on line 91
+[15-Dec-2016 18:15:51 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/rent452/public_html/rent/application/controllers/Rent.php on line 91
+[15-Dec-2016 18:16:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/rent452/public_html/rent/application/controllers/Rent.php on line 91
+[15-Dec-2016 23:41:18 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/rent452/public_html/rent/application/controllers/Rent.php on line 91
+[15-Dec-2016 23:42:47 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/rent452/public_html/rent/application/controllers/Rent.php on line 91
